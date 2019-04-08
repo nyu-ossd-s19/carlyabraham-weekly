@@ -25,5 +25,6 @@ Replace the first row with your contribution.
 |  2   | https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Kevin-Fleming  |  course wiki  |  added q for Kevin Fleming  |
 |  2   | https://en.wikipedia.org/wiki/Camp_Cope  |  Camp Cope - Wikipedia Article  |  Added information regarding the band's second US tour  |
 |  2   | https://en.wikipedia.org/wiki/Petal_(band)  |  Petal (band) - Wikipedia Article  |  Added information regarding band's second album and recent tours  |
+|  2   |  https://github.com/yambelo/beagle/issues/2  |  Beagle - Installation issue |  opened an issue on the project's installation instructions, including how I was able to fix it  |
 
 Wikipedia User Contributions Page: https://en.wikipedia.org/wiki/Special:Contributions/Carlyabraham 
